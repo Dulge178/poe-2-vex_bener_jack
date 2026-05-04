@@ -11,4 +11,4 @@ counter = 0
 
 while(counter < 10):
     print("Time: " + str(counter))
-    counter += 2 #count by 2's
+    counter += 2 #count by 2
